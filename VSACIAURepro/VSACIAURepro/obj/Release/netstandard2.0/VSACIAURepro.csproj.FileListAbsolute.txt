@@ -1,0 +1,14 @@
+C:\Users\sum\source\repos\VSACIAURepro\VSACIAURepro\VSACIAURepro\bin\Release\netstandard2.0\VSACIAURepro.deps.json
+C:\Users\sum\source\repos\VSACIAURepro\VSACIAURepro\VSACIAURepro\bin\Release\netstandard2.0\VSACIAURepro.dll
+C:\Users\sum\source\repos\VSACIAURepro\VSACIAURepro\VSACIAURepro\bin\Release\netstandard2.0\ref\VSACIAURepro.dll
+C:\Users\sum\source\repos\VSACIAURepro\VSACIAURepro\VSACIAURepro\bin\Release\netstandard2.0\VSACIAURepro.pdb
+C:\Users\sum\source\repos\VSACIAURepro\VSACIAURepro\VSACIAURepro\obj\Release\netstandard2.0\VSACIAURepro.csprojAssemblyReference.cache
+C:\Users\sum\source\repos\VSACIAURepro\VSACIAURepro\VSACIAURepro\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\sum\source\repos\VSACIAURepro\VSACIAURepro\VSACIAURepro\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\sum\source\repos\VSACIAURepro\VSACIAURepro\VSACIAURepro\obj\Release\netstandard2.0\VSACIAURepro.csproj.CoreCompileInputs.cache
+C:\Users\sum\source\repos\VSACIAURepro\VSACIAURepro\VSACIAURepro\obj\Release\netstandard2.0\VSACIAURepro.AssemblyInfoInputs.cache
+C:\Users\sum\source\repos\VSACIAURepro\VSACIAURepro\VSACIAURepro\obj\Release\netstandard2.0\VSACIAURepro.AssemblyInfo.cs
+C:\Users\sum\source\repos\VSACIAURepro\VSACIAURepro\VSACIAURepro\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\sum\source\repos\VSACIAURepro\VSACIAURepro\VSACIAURepro\obj\Release\netstandard2.0\VSACIAURepro.dll
+C:\Users\sum\source\repos\VSACIAURepro\VSACIAURepro\VSACIAURepro\obj\Release\netstandard2.0\ref\VSACIAURepro.dll
+C:\Users\sum\source\repos\VSACIAURepro\VSACIAURepro\VSACIAURepro\obj\Release\netstandard2.0\VSACIAURepro.pdb
